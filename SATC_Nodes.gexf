@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-10-16">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="episode appearances" title="episode appearances" type="integer"/>
+      <attribute id="episodes appearances" title="episodes appearances" type="string"/>
+      <attribute id="image" title="image" type="string"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="episode appearances" title="episode appearances" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="0" label="Carrie Bradshaw">
+        <attvalues>
+          <attvalue for="episode appearances" value="12"/>
+          <attvalue for="episodes appearances" value="All"/>
+          <attvalue for="image" value="https://upload.wikimedia.org/wikipedia/en/3/34/Carrie_Bradshaw_opening_credits.jpg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="275.20752" y="288.74072"/>
+      </node>
+      <node id="4" label="Mr. Big">
+        <attvalues>
+          <attvalue for="episode appearances" value="7"/>
+          <attvalue for="episodes appearances" value="1.1;1.4;1.6;1.7;1.8;1.11;1.12"/>
+          <attvalue for="image" value="https://hips.hearstapps.com/hmg-prod/images/07-elle-satc-mrbig-season1-episode1-1525709863.jpg?crop=1xw:1xh;center,top&amp;resize=980:*"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-344.72388" y="-493.36475"/>
+      </node>
+      <node id="2" label="Samantha Jones">
+        <attvalues>
+          <attvalue for="episode appearances" value="12"/>
+          <attvalue for="episodes appearances" value="All"/>
+          <attvalue for="image" value="https://upload.wikimedia.org/wikipedia/en/9/94/Samantha_Jones_by_Kim_Cattrall.jpg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="70.27284" y="-327.9196"/>
+      </node>
+      <node id="6" label="Capote Duncan">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.1"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/6/6d/Capote.png/revision/latest?cb=20240602112802"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-371.80444" y="-179.78333"/>
+      </node>
+      <node id="3" label="Charlotte York">
+        <attvalues>
+          <attvalue for="episode appearances" value="12"/>
+          <attvalue for="episodes appearances" value="All"/>
+          <attvalue for="image" value="https://upload.wikimedia.org/wikipedia/en/f/fe/Charlotte_York_by_Kristin_Davis.jpg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-542.9034" y="247.65625"/>
+      </node>
+      <node id="1" label="Miranda Hobbs">
+        <attvalues>
+          <attvalue for="episode appearances" value="12"/>
+          <attvalue for="episodes appearances" value="All"/>
+          <attvalue for="image" value="https://upload.wikimedia.org/wikipedia/en/5/5c/Miranda_Hobbes_by_Cynthia_Nixon.jpg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-95.19063" y="-124.36759"/>
+      </node>
+      <node id="5" label="Skipper Jones">
+        <attvalues>
+          <attvalue for="episode appearances" value="6"/>
+          <attvalue for="episodes appearances" value="1.1;1.2;1.4;1.5;1.7;1.12"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/7/7e/Skipper.jpg/revision/latest?cb=20230830092921"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-29.81981" y="-456.6632"/>
+      </node>
+      <node id="7" label="Barkley">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="404.42798" y="-339.02484"/>
+      </node>
+      <node id="8" label="Standford Blatch">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.1; 1.2"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/e/e9/Stanford-blatch-picture.png/revision/latest?cb=20151101092038"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-318.89954" y="-359.04773"/>
+      </node>
+      <node id="9" label="Derek">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.2"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="398.71484" y="-98.01118"/>
+      </node>
+      <node id="10" label="Patience">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.3"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/1/16/Patience.jpg/revision/latest?cb=20140215163229&amp;path-prefix=de"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-234.17763" y="501.948"/>
+      </node>
+      <node id="11" label="Peter">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.3"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/1/13/Peter.jpg/revision/latest?cb=20140215163838&amp;path-prefix=de"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="316.30237" y="-199.09772"/>
+      </node>
+      <node id="12" label="Sean 'The Marrying Guy'">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.3"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/0/09/Sean.jpg/revision/latest/scale-to-width-down/200?cb=20140215170317&amp;path-prefix=de"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="433.67993" y="139.82196"/>
+      </node>
+      <node id="13" label="Jeff">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.3"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="225.80305" y="-301.33914"/>
+      </node>
+      <node id="14" label="Sid">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.3"/>
+          <attvalue for="image" value="https://m.media-amazon.com/images/M/MV5BMjEwMzA2OTYxNF5BMl5BanBnXkFtZTgwMDk2MzU1MjE@._V1_.jpg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-287.92468" y="280.12317"/>
+      </node>
+      <node id="15" label="Sam">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.4"/>
+          <attvalue for="image" value="https://www.televisionofyore.com/uploads/9/3/0/3/9303799/5410016_orig.jpeg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-330.51242" y="264.7124"/>
+      </node>
+      <node id="16" label="Chef Jon">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.4"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/3/3e/Samantha_und_John.jpg/revision/latest/scale-to-width-down/200?cb=20140215190044&amp;path-prefix=de"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="163.95241" y="-135.39044"/>
+      </node>
+      <node id="17" label="Brian">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.4"/>
+          <attvalue for="image" value="https://hips.hearstapps.com/hmg-prod/images/22-elle-satc-brian-season1-episode4-1525715720.png?crop=1xw:1xh;center,top&amp;resize=980:*"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="181.03456" y="-262.55017"/>
+      </node>
+      <node id="18" label="Gilles">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.5"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/a/a5/Carrie_und_Gilles.jpg/revision/latest/scale-to-width-down/200?cb=20140215195725&amp;path-prefix=de"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-395.64105" y="128.23279"/>
+      </node>
+      <node id="19" label="Amalita">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.5"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/e/e0/Carrie_und_Amalita.jpg/revision/latest/scale-to-width-down/200?cb=20140215195828&amp;path-prefix=de"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="388.13922" y="-186.39307"/>
+      </node>
+      <node id="20" label="Neville Morgan">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.5"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/3/3b/Charlotte_und_Neville.jpg/revision/latest/scale-to-width-down/200?cb=20140215200236&amp;path-prefix=de"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="277.92157" y="5.939263"/>
+      </node>
+      <node id="21" label="Carlo">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.5"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="74.400894" y="16.350029"/>
+      </node>
+      <node id="22" label="Ted Baker">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.5"/>
+          <attvalue for="image" value="https://y.yarn.co/37ef9841-5d5b-4e40-ae3e-6cd0c0c82f47_screenshot.jpg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-239.18825" y="310.8459"/>
+      </node>
+      <node id="23" label="Shmuel">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.5"/>
+          <attvalue for="image" value="https://i.ytimg.com/vi/-zg2U3ZT_u0/hqdefault.jpg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-45.2072" y="-240.49655"/>
+      </node>
+      <node id="24" label="Alison Roth">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="58.792923" y="466.1692"/>
+      </node>
+      <node id="25" label="Michael Conway">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.7"/>
+          <attvalue for="image" value="https://hips.hearstapps.com/hmg-prod/images/38-elle-satc-michael-conway-season-1-episode7-1525710647.jpg?crop=1xw:1xh;center,top&amp;resize=980:*"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="205.14955" y="-130.70856"/>
+      </node>
+      <node id="26" label="Jared">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.7"/>
+          <attvalue for="image" value="https://s3-us-east-2.amazonaws.com/cms.thedipp.com/2021/03/justin-1.png"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-12.8070545" y="-429.64172"/>
+      </node>
+      <node id="27" label="Rick the Realtor">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-21.508959" y="25.175224"/>
+      </node>
+      <node id="28" label="Pamela the Realtor">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.7"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-60.842728" y="228.20074"/>
+      </node>
+      <node id="29" label="Ken Shear">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.8"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/7/79/Ken_und_Ruth.jpg/revision/latest/scale-to-width-down/200?cb=20140216130552&amp;path-prefix=de"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="239.63448" y="437.80896"/>
+      </node>
+      <node id="30" label="Jack the Architect">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.8"/>
+          <attvalue for="image" value="https://hips.hearstapps.com/hmg-prod/images/42-elle-satc-jack-season-1-episode-8-1525710787.jpg?crop=1xw:1xh;center,top&amp;resize=980:*"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-424.70728" y="-109.75846"/>
+      </node>
+      <node id="31" label="Ruth Shear">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.8"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/7/79/Ken_und_Ruth.jpg/revision/latest/scale-to-width-down/200?cb=20140216130552&amp;path-prefix=de"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="254.42793" y="94.83294"/>
+      </node>
+      <node id="32" label="Barbara">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.8"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-199.1769" y="408.67578"/>
+      </node>
+      <node id="33" label="Bernie &quot;The Turtle&quot; Turtletaub">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.9"/>
+          <attvalue for="image" value="https://y.yarn.co/dd899a11-06c2-4dce-988e-7e3fe8a9c6aa_screenshot.jpg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-18.92644" y="74.169365"/>
+      </node>
+      <node id="34" label="Laney Berlin">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.1"/>
+          <attvalue for="image" value="https://static.wikia.nocookie.net/sexandthecity/images/e/e6/Laney_Berlin.jpg/revision/latest?cb=20230829212349"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-364.36813" y="139.9455"/>
+      </node>
+      <node id="35" label="Kevin">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.11"/>
+          <attvalue for="image" value="https://hips.hearstapps.com/hmg-prod/images/40-elle-satc-kevin-season-1-episode-11-1525710717.jpg?crop=1xw:1xh;center,top&amp;resize=980:*"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="428.38947" y="-250.32074"/>
+      </node>
+      <node id="36" label="Siddharta">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.11"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="228.07893" y="202.59198"/>
+      </node>
+      <node id="37" label="Thomas John Andersen">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.12"/>
+          <attvalue for="image" value="https://hips.hearstapps.com/hmg-prod/images/29-elle-satc-thomas-john-anderson-season1-episode12-1525710282.jpg?crop=1xw:1xh;center,top&amp;resize=980:*"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-230.50645" y="195.48645"/>
+      </node>
+      <node id="38" label="James">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.12"/>
+          <attvalue for="image" value="https://i.redd.it/azz297whqgla1.jpg"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="315.23236" y="433.4845"/>
+      </node>
+      <node id="39" label="Kurt Harringon">
+        <attvalues>
+          <attvalue for="episode appearances" value="1"/>
+          <attvalue for="episodes appearances" value="1.1"/>
+          <attvalue for="image" value="https://hips.hearstapps.com/hmg-prod/images/23-elle-satc-kurt-harrington-season-1-episode1-1525710074.jpg?crop=1xw:1xh;center,top&amp;resize=980:*"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-370.7262" y="-267.0321"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="4" type="undirected" label="on again/off again" kind="relational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1;1.4;1.6;1.7;1.8;1.11;1.12"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="2" target="6" type="undirected" label="ended up going home with" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="3" target="6" type="undirected" label="was dumped by" kind="platonic">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="1" target="5" type="undirected" kind="relational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1;1.2"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="0" target="7" type="undirected" kind="transactional">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.2"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="2" target="7" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.2"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="0" target="8" type="undirected" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.2"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="0" target="9" type="undirected" kind="platonic">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.2"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="8" target="9" type="undirected" kind="transactional">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.2"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="10" target="11" type="undirected" kind="contractual">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.3"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="11" target="0" type="undirected" kind="charged">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.3"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="0" target="12" type="undirected" label="dumps him" kind="platonic">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.3"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="3" target="12" type="undirected" label="set up by Carrie" kind="relational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.3"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="1" target="13" type="undirected" kind="transactional">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.3"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="1" target="14" type="undirected" kind="platonic">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.3"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="0" target="15" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.4"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="2" target="16" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.4"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="3" target="17" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.4"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="0" target="18" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.5"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="0" target="19" type="undirected" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.5"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="3" target="20" type="undirected" kind="charged">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.5"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="19" target="21" type="undirected" kind="relational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.5"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="21" target="18" type="undirected" label="go clubbing together" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.5"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="1" target="22" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.5"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="3" target="23" type="undirected" label="has a passionate affair with" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.5"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="5" target="24" type="undirected" label="dates after Miranda" kind="relational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.7"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="3" target="25" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.7"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="8" target="26" type="undirected" kind="transactional">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.7"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="2" target="27" type="undirected" label="cheats on her realtor with" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.7"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="2" target="28" type="undirected" label="enlists help finding an apartment" kind="transactional">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.7"/>
+        </attvalues>
+      </edge>
+      <edge id="30" source="2" target="29" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.8"/>
+        </attvalues>
+      </edge>
+      <edge id="31" source="3" target="30" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.8"/>
+        </attvalues>
+      </edge>
+      <edge id="32" source="29" target="31" type="undirected" label="married" kind="contractual">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.8"/>
+        </attvalues>
+      </edge>
+      <edge id="33" source="4" target="32" type="undirected" label="divorced" kind="contractual">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.8"/>
+        </attvalues>
+      </edge>
+      <edge id="34" source="0" target="32" type="undirected" label="pitches a book idea to" kind="transactional">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.8"/>
+        </attvalues>
+      </edge>
+      <edge id="35" source="2" target="33" type="undirected" label="tries to sophisticate" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.9"/>
+        </attvalues>
+      </edge>
+      <edge id="36" source="0" target="34" type="undirected" label="attend baby shower for" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="37" source="1" target="34" type="undirected" label="attend baby shower for" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="38" source="2" target="34" type="undirected" label="attend baby shower for" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="39" source="3" target="34" type="undirected" label="attend baby shower for" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="40" source="0" target="35" type="undirected" label="used to date" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.11"/>
+        </attvalues>
+      </edge>
+      <edge id="41" source="3" target="35" type="undirected" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.11"/>
+        </attvalues>
+      </edge>
+      <edge id="42" source="2" target="36" type="directed" label="attracted to yoga instructor" kind="charged">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.11"/>
+        </attvalues>
+      </edge>
+      <edge id="43" source="1" target="37" type="directed" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.12"/>
+        </attvalues>
+      </edge>
+      <edge id="44" source="2" target="38" type="directed" kind="situational">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.12"/>
+        </attvalues>
+      </edge>
+      <edge id="45" source="0" target="10" type="directed" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.3"/>
+        </attvalues>
+      </edge>
+      <edge id="46" source="0" target="39" type="directed" label="used to date" kind="relationship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="47" source="0" target="2" type="undirected" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="48" source="0" target="3" type="undirected" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="49" source="0" target="1" type="undirected" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="50" source="2" target="1" type="undirected" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="51" source="2" target="1" type="undirected" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="52" source="2" target="3" type="undirected" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+      <edge id="53" source="1" target="3" type="undirected" kind="friendship">
+        <attvalues>
+          <attvalue for="episode appearances" value="1.1"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
